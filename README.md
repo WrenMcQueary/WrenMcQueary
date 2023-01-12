@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+I'm an ML tecnologist, backend software engineer, and ethics researcher looking to get involved professionally in civic technology.  I'm looking to get involved in civic technology after I finish my MS program in computer science in May 2023.
 
 <!--
 **WrenMcQueary/WrenMcQueary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
