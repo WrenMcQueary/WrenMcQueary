@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson.  I'm looking to get involved in civic technology after I finish my MS program in computer science in May 2023.
+I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson.  I'm looking to get involved in social impact technology after I finish my MS program in computer science in May 2023.
 
 <!--
 **WrenMcQueary/WrenMcQueary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
