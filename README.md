@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm an ML tecnologist, data scientist, and backend software engineer currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson.  I'm looking to get involved in social impact technology after I finish my MS program in computer science in May 2023.
+I'm a public interest technologist, ML tecnologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau.  I'm looking to continue my involvement in public interest technology after I finish my fellowship.
 
 <!--
 **WrenMcQueary/WrenMcQueary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
