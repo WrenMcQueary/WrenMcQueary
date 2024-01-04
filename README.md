@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working as a Data Science Fellow at the U.S. Census Bureau.  I'm looking to continue my involvement in public interest technology after I complete my fellowship.
+I'm a public interest technologist, data scientist, and ML technologist currently working as a data science consultant at [eQual](https://equal.us/).
 
 <!--
 **WrenMcQueary/WrenMcQueary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
